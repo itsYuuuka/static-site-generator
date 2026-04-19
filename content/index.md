@@ -2,7 +2,7 @@
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
-I've been a fan of Tolkien's work for as long as I can remember. Middle-earth is unlike anything else ever written.
+I've been a fan of Tolkien's work for as long as I can remember. **I like Tolkien**. Middle-earth is unlike anything else ever written.
 
 > "I am in fact a Hobbit in all but size."
 >

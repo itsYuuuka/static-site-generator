@@ -4,7 +4,7 @@ A static site generator I built in Python that converts Markdown files into a fu
 
 ## Live Site
 
-[https://itsYuuuka.github.io/static-site-generator/](https://itsYuuuka.github.io/static-site-generator/)
+[https://Oqaan.github.io/static-site-generator/](https://Oqaan.github.io/static-site-generator/)
 
 ## Overview
 
